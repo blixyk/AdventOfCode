@@ -3,7 +3,7 @@
     Day 2 part one
     Solution by: Blixyk
 
-    You will find the puzzle on their website, I only share my solution.
+    You will find the puzzle on their website, I only share my solution here.
 */
 
 
