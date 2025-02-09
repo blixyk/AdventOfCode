@@ -33,18 +33,15 @@ int main(int argc, char* argv[])
         
         if(l*w <= w*h && l*w <= h*l)
         {
-            //extra_paper = l*w;
             ribbon = 2*l+2*w;
         }
         else if(w*h <= l*w && w*h <= h*l)
         {
-            //extra_paper = w*h;
             ribbon = 2*w+2*h;
 
         }
         else 
         {
-            //extra_paper = h*l;
             ribbon = 2*h + 2*l;
         }
         
