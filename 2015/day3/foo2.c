@@ -1,3 +1,11 @@
+/*
+    Advent of Code - 2015
+    Day 3 part two
+    Solution by: Blixyk
+
+    You will find the puzzle on their website, I only share my solution here.
+*/
+
 #include <stdio.h>
 
 #define HOUSES 1000000
@@ -69,7 +77,7 @@ int main(int argc, char* argv[])
 
 
     fclose(fn);
-    
+
     printf("Number of houses: %d\n", index);
 
     return 1;
